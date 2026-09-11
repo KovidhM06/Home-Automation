@@ -4,11 +4,11 @@
 
 
 
-# [Project Name] 🎯
+# Home Automation 🎯
 
 
 ## Basic Details
-### Team Name: SAKA^&
+### Team Name: SAKA67
 
 
 ### Team Members
@@ -17,25 +17,17 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
 This project is an ESP32-based home automation system that allows users to control electrical appliances remotely through a mobile app.
 The ESP32 communicates via Wi-Fi and controls a 2-channel relay, which switches devices such as an LED strip ON or OFF.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
 Getting up to switch off the lights is exhausting after a long day.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 An ESP32-powered system that lets you switch the lights ON/OFF from your phone—because getting off the couch is overrated.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
 For Hardware:
 - Main Components
@@ -60,47 +52,24 @@ For Hardware:
 6. Computer/Laptop – For coding and uploading the program
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
 # Schematic & Circuit
 <img width="522" height="585" alt="Screenshot 2026-09-12 052136" src="https://github.com/user-attachments/assets/097521e5-ef28-4bf0-9897-f6f413f5eb78" />
-![Circuit](Add your circuit diagram here)
+
 *Add caption explaining connections*
 Shows the physical connections between the ESP32, 2-channel relay module, LED strip, and power supply.
 
 <img width="436" height="586" alt="Screenshot 2026-09-12 052147" src="https://github.com/user-attachments/assets/cea82ed1-0d9c-4464-963c-6445933f5cad" />
-![Schematic](Add your schematic diagram here)
+
 *Add caption explaining the schematic*
 Shows the electrical working of the system, illustrating how the ESP32 controls the relay channels to switch the connected loads ON/OFF.
 
 # Build Photos
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 37" src="https://github.com/user-attachments/assets/a1f01a59-c94f-4e73-9663-5b98883d0051" /><img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 37 (1)" src="https://github.com/user-attachments/assets/6c841fd2-85a6-4058-908f-ad0f6e18921a" />
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 38" src="https://github.com/user-attachments/assets/c59895c6-ce81-4dfb-9700-06e733fdfc15" />
-![Components](Add photo of your components here)
+
 *List out all components shown*
 Components:
 1. ESP32
@@ -111,7 +80,7 @@ Components:
 6. USB cable 
    
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 36" src="https://github.com/user-attachments/assets/70854fef-359a-4ca5-ad13-172c2d7bf10a" />
-![Build](Add photos of build process here)
+
 *Explain the build steps*
 1. Set up the ESP32
 The ESP32 was programmed to connect to a Wi-Fi network and receive control commands from the mobile application.
@@ -149,7 +118,7 @@ The phone was used to switch the relay channels. From your video, you can see th
 
 
 <img width="1118" height="899" alt="Screenshot 2026-09-12 051045" src="https://github.com/user-attachments/assets/06e5034c-af5f-44b7-be0f-f9e965daa8fa" />
-![Final](Add photo of final product here)
+
 *Explain the final build*
 The final build is an ESP32-based home automation system that allows electrical devices to be controlled wirelessly using a smartphone.
 
@@ -186,7 +155,7 @@ https://github.com/user-attachments/assets/4041d581-9606-46be-a4d3-19ad1a4963f8
 
 
 # Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - Sriyesh Kumar: Contributed to the hardware development of the project, including assembling the ESP32, 2-channel relay module, LED strip, and power connections. Also assisted with testing and troubleshooting the circuit.
