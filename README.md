@@ -58,19 +58,19 @@ For Hardware:
 # Schematic & Circuit
 <img width="522" height="585" alt="Screenshot 2026-09-12 052136" src="https://github.com/user-attachments/assets/097521e5-ef28-4bf0-9897-f6f413f5eb78" />
 
-*Add caption explaining connections*
+
 Shows the physical connections between the ESP32, 2-channel relay module, LED strip, and power supply.
 
 <img width="436" height="586" alt="Screenshot 2026-09-12 052147" src="https://github.com/user-attachments/assets/cea82ed1-0d9c-4464-963c-6445933f5cad" />
 
-*Add caption explaining the schematic*
+
 Shows the electrical working of the system, illustrating how the ESP32 controls the relay channels to switch the connected loads ON/OFF.
 
 # Build Photos
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 37" src="https://github.com/user-attachments/assets/a1f01a59-c94f-4e73-9663-5b98883d0051" /><img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 37 (1)" src="https://github.com/user-attachments/assets/6c841fd2-85a6-4058-908f-ad0f6e18921a" />
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 38" src="https://github.com/user-attachments/assets/c59895c6-ce81-4dfb-9700-06e733fdfc15" />
 
-*List out all components shown*
+
 Components:
 1. ESP32
 2. led strip
@@ -81,7 +81,7 @@ Components:
    
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 36" src="https://github.com/user-attachments/assets/70854fef-359a-4ca5-ad13-172c2d7bf10a" />
 
-*Explain the build steps*
+
 1. Set up the ESP32
 The ESP32 was programmed to connect to a Wi-Fi network and receive control commands from the mobile application.
 
@@ -119,7 +119,7 @@ The phone was used to switch the relay channels. From your video, you can see th
 
 <img width="1118" height="899" alt="Screenshot 2026-09-12 051045" src="https://github.com/user-attachments/assets/06e5034c-af5f-44b7-be0f-f9e965daa8fa" />
 
-*Explain the final build*
+
 The final build is an ESP32-based home automation system that allows electrical devices to be controlled wirelessly using a smartphone.
 
 At the center of the system is the ESP32, which acts as the main controller. It connects to the Wi-Fi network and communicates with the mobile application. The ESP32 is connected to a 2-channel relay module, with each relay channel acting as an independent electronic switch.
