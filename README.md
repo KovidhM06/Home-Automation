@@ -80,7 +80,7 @@ Components:
 4. Jumper wires
 5. Home automation app
 6. USB cable 
-
+<br>
    
 <img width="1536" height="1536" alt="WhatsApp Image 2026-09-12 at 04 58 36" src="https://github.com/user-attachments/assets/70854fef-359a-4ca5-ad13-172c2d7bf10a" />
 1. Set up the ESP32
@@ -117,7 +117,7 @@ The relay switches according to those outputs.
 7. Test the system
 The phone was used to switch the relay channels. From your video, you can see the lights turning on/off in response to the buttons in the app.
 
-
+<br>
 
 <img width="1118" height="899" alt="Screenshot 2026-09-12 051045" src="https://github.com/user-attachments/assets/06e5034c-af5f-44b7-be0f-f9e965daa8fa" />
 The final build is an ESP32-based home automation system that allows electrical devices to be controlled wirelessly using a smartphone.
@@ -146,7 +146,7 @@ Jumper/connecting wires – electrical connections
 Mobile application – wireless user interface
 
 The main advantage of the final build is that the user doesn't need to manually operate the switches. The connected devices can be switched remotely from the smartphone through the ESP32.
-
+<br>
 ### Project Demo
 
 https://github.com/user-attachments/assets/4041d581-9606-46be-a4d3-19ad1a4963f8
